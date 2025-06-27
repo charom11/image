@@ -1,0 +1,16 @@
+{
+  "name": "TraleLo",
+  "symbol": "TRALELO",
+  "decimals": 10,
+  "description": "TraleLo is a sample token on Solana devnet.",
+  "image": "https://raw.githubusercontent.com/charom11/image/main/tralelo-logo.png",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "HcATWUc2ZxbiTc6Yq4dCHbMXjHo5ALUwK5g442kzQdqe",
+        "share": 100
+      }
+    ]
+  }
+}
